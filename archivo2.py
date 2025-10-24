@@ -3,3 +3,4 @@ def crear_nombre():
 
 def imprimir_nombre():
     print("Ignacio")
+    print("hola adriel")
